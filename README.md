@@ -7,4 +7,4 @@ Spark structured streaming using socket, Making dataframe eg:(Name, Age, Gender,
 * Edit file Spark_Structured_Streaming.scala ,write file sink to your desire location.
 * Open terminal for start net cat utility and hit this command : nc -l 9999 
 * Run the project on your Intellij
-* Start giving input on your netcat terminal semicolumn seperated: for example: akshit;25;Male;plp;2017
+* Start giving input on your netcat terminal semicolumn seperated and space seperated for spliting: for example: akshit;25;Male;plp;2017
